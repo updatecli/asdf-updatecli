@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-updatecli [![Build](https://github.com/treezio/asdf-updatecli/actions/workflows/build.yml/badge.svg)](https://github.com/treezio/asdf-updatecli/actions/workflows/build.yml) [![Lint](https://github.com/treezio/asdf-updatecli/actions/workflows/lint.yml/badge.svg)](https://github.com/treezio/asdf-updatecli/actions/workflows/lint.yml)
+# asdf-updatecli [![Build](https://github.com/updatecli/asdf-updatecli/actions/workflows/build.yml/badge.svg)](https://github.com/updatecli/asdf-updatecli/actions/workflows/build.yml) [![Lint](https://github.com/updatecli/asdf-updatecli/actions/workflows/lint.yml/badge.svg)](https://github.com/updatecli/asdf-updatecli/actions/workflows/lint.yml)
 
 [updatecli](https://www.updatecli.io/) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -26,7 +26,7 @@ Plugin:
 ```shell
 asdf plugin add updatecli
 # or
-asdf plugin add updatecli https://github.com/treezio/asdf-updatecli.git
+asdf plugin add updatecli https://github.com/updatecli/asdf-updatecli.git
 ```
 
 updatecli:
@@ -52,8 +52,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/treezio/asdf-updatecli/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/updatecli/asdf-updatecli/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Luis Fernández](https://github.com/treezio/)
+See [LICENSE](LICENSE) © [Updatecli](https://github.com/updatecli/)

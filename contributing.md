@@ -5,7 +5,7 @@ Testing Locally:
 ```shell
 asdf plugin test <plugin-name> <plugin-url> [--asdf-tool-version <version>] [--asdf-plugin-gitref <git-ref>] [test-command*]
 
-asdf plugin test updatecli https://github.com/treezio/asdf-updatecli.git "updatecli version"
+asdf plugin test updatecli https://github.com/updatecli/asdf-updatecli.git "updatecli version"
 ```
 
 Tests are automatically run in GitHub Actions on push and PR.
